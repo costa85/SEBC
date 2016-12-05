@@ -1,1 +1,1 @@
-![](installation/png/0_nodeIPs.png)
+![](https://github.com/costa85/SEBC/blob/master/installation/png/0_nodeIPs.png)
