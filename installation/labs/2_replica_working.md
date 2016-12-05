@@ -1,0 +1,1 @@
+![](https://github.com/costa85/SEBC/blob/master/installation/png/2_replica_working.png)
