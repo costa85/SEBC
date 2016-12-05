@@ -1,1 +1,1 @@
-![](0_nodeIPs.png)
+![](installation/png/0_nodeIPs.png)
