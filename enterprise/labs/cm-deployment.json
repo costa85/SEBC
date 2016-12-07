@@ -1,14 +1,3 @@
-# Use curl
-```
-[root@clouderaseb00 ~]# curl -u costa85:cloudera "http://clouderaseb00.gitcluster.com:7180/api/v13/cm/deployment" > cm-deployment.json
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100 42824    0 42824    0     0   534k      0 --:--:-- --:--:-- --:--:--  543k
-```
-
-
-# Output
-```
 {
   "timestamp" : "2016-12-07T12:00:42.486Z",
   "clusters" : [ {
@@ -1442,4 +1431,3 @@
     "items" : [ ]
   }
 }
-```
