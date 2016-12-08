@@ -1,3 +1,4 @@
+```
 [logging]
  default = FILE:/var/log/krb5libs.log
  kdc = FILE:/var/log/krb5kdc.log
@@ -20,3 +21,4 @@
 [domain_realm]
  .gitcluster.com = GITCLUSTER.COM
  gitcluster.com = GITCLUSTER.COM
+```
