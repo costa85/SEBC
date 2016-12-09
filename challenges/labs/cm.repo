@@ -1,0 +1,6 @@
+[cm]
+name = cloudera manager packages
+baseurl = http://172.16.31.20/cm5.9.0
+gpgcheck = 0
+enabled = 1
+
