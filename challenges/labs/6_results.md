@@ -112,6 +112,13 @@ INFO  : OK
 
 
 ```
+[root@clouderaseb02 orchard]# klist -e
+Ticket cache: FILE:/tmp/krb5cc_0
+Default principal: raffles@COSTA85.SG
+
+Valid starting     Expires            Service principal
+12/09/16 21:33:47  12/10/16 21:33:47  krbtgt/COSTA85.SG@COSTA85.SG
+        renew until 12/16/16 21:33:47, Etype (skey, tkt): aes256-cts-hmac-sha1-96, aes256-cts-hmac-sha1-96
 [root@clouderaseb02 orchard]# beeline
 2016-12-09 21:34:28,033 WARN  [main] mapreduce.TableMapReduceUtil: The hbase-prefix-tree module jar containing PrefixTreeCodec is not present.  Continuing without it.
 Beeline version 1.1.0-cdh5.9.0 by Apache Hive
@@ -140,5 +147,6 @@ INFO  : OK
 +------------+--+
 4 rows selected (0.317 seconds)
 0: jdbc:hive2://clouderaseb00.gitcluster.com:>
+
 
 ```
